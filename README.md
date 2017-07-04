@@ -1,26 +1,11 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
 #Udemy 리액트학습
+
+```
+> npm install
+> npm start
+```
+
+**유투브 api 이용하기**
+
+- 초기 검색어는 surfboard로 되어있으나, 검색창에 검색어 입력시 관련 영상 로드
+- 사이드에 리스트 클릭시 해당 영상을 재생 할 수 있습니다.
